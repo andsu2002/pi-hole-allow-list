@@ -8,3 +8,4 @@ api-h2.tiktokv.com
 v77.tiktokcdn.com
 sf16-ies-music-sg.tiktokcdn.com
 image-sg.tiktokv.com
+api.tiktokv.com
