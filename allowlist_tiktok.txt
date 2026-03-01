@@ -9,3 +9,12 @@ v77.tiktokcdn.com
 sf16-ies-music-sg.tiktokcdn.com
 image-sg.tiktokv.com
 api.tiktokv.com
+image-va.tiktokv.com
+v16m.tiktokcdn.com
+p19-webcast.tiktokcdn.com
+api31-normal-alisg.tiktokv.com
+v19-cla.tiktokcdn.com
+p19-webcast.tiktokcdn.com
+lf19-pitayacdn.tiktokcdn.com
+p19-comment-sign-sg.tiktokcdn.com
+sf19-teko.tiktokcdn.com
