@@ -24,3 +24,4 @@ static.whatsapp.net
 web.facebook.com
 web.whatsapp.com
 www.facebook.com
+pps.whatsapp.net
