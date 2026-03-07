@@ -18,7 +18,9 @@ web.whatsapp.com
 pps.whatsapp.net
 
 #Instagram
+b.i.instagram.com
 graph.instagram.com
+instagram.ffln10-1.fna.fbcdn.net
 i.instagram.com
 media1.giphy.com
 media2.giphy.com
