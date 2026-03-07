@@ -5,3 +5,4 @@ cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv
 co.kvaedit.site
 dv-pix.adstk.io
 k.pluto.tv
+sp.pluto.tv
