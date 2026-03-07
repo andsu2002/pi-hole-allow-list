@@ -15,7 +15,6 @@ graph.whatsapp.net
 pps.whatsapp.net
 static.whatsapp.net
 web.whatsapp.com
-pps.whatsapp.net
 
 #Instagram
 b.i.instagram.com
