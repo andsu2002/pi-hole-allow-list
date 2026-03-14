@@ -1,0 +1,5 @@
+weather.com # Tempo
+firebaseremoteconfig.googleapis.com # INCO
+send.credpago.com # Loft Seguro FIanca
+disneyplus.com # Disney
+js.stripe.com # Pagamento ChatGPT
