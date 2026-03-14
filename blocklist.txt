@@ -13,6 +13,12 @@ virus-engine.sec.intl.miui.com
 zwyr157wwiu6eior.com
 chatirbate.com
 
+#Telemetria
+purcmt.data.eu.nexthink.cloud
+dc.dqa.samsung.com
+usr.navdmp.com
+uinfo6.playrix.com
+
 #Propaganda
 beacon.riskified.com
 census-app.scorecardresearch.com
