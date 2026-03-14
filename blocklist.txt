@@ -7,13 +7,11 @@ k.pluto.tv
 sp.pluto.tv
 
 #Malwares
-applytics.napps-2.com
-napps-1.com
-napps-2.com
 tintim.link
 tr.acobt.tech
 virus-engine.sec.intl.miui.com
 zwyr157wwiu6eior.com
+chatirbate.com
 
 #Propaganda
 beacon.riskified.com
@@ -27,3 +25,9 @@ sdkopmetrics-us.dsp-api.moloco.com
 sync.richaudience.com
 www.clarity.ms
 yc5nko.launches.appsflyersdk.com
+
+i-sdk.mediation.unity3d.com
+ae.iads.unity3d.com
+cdn.iads.unity3d.com
+gateway.unityads.unity3d.com
+i-adq.mediation.unity3d.com
