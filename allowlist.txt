@@ -3,3 +3,4 @@ firebaseremoteconfig.googleapis.com # INCO
 send.credpago.com # Loft Seguro FIanca
 disneyplus.com # Disney
 js.stripe.com # Pagamento ChatGPT
+collector.github.com # GitHub
