@@ -32,6 +32,7 @@ usr.navdmp.com
 uinfo6.playrix.com
 
 #Propaganda
+res.adx.opera.com
 beacon.riskified.com
 census-app.scorecardresearch.com
 eventfnt-us.dsp-api.moloco.com
