@@ -46,6 +46,7 @@ sdkopmetrics-us.dsp-api.moloco.com
 sync.richaudience.com
 www.clarity.ms
 yc5nko.launches.appsflyersdk.com
+clk.thribee.com
 
 i-sdk.mediation.unity3d.com
 ae.iads.unity3d.com
