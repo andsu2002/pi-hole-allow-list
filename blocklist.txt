@@ -53,7 +53,6 @@ yc5nko.launches.appsflyersdk.com
 clk.thribee.com
 
 cameraprive.com.br
-cameraprive.com
 i-sdk.mediation.unity3d.com
 ae.iads.unity3d.com
 cdn.iads.unity3d.com
