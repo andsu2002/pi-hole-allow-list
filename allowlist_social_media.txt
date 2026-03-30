@@ -2,11 +2,14 @@
 2c51d811-46d6-47ad-9522-26313295b125-netseer-ipaddr-assoc.xy.fbcdn.net
 b-graph.facebook.com
 cdn.fbsbx.com
+scontent.xx.fbcdn.net
+static.xx.fbcdn.net
 edge-mqtt.facebook.com
 graph.facebook.com
 rupload.facebook.com
 web.facebook.com
 www.facebook.com
+edge-chat.facebook.com
 
 #WhatsApp
 g.whatsapp.net
@@ -19,6 +22,7 @@ web.whatsapp.com
 #Instagram
 b.i.instagram.com
 graph.instagram.com
+edge-chat.instagram.com
 instagram.ffln10-1.fna.fbcdn.net
 i.instagram.com
 media1.giphy.com
@@ -31,4 +35,6 @@ media7.giphy.com
 media8.giphy.com
 media9.giphy.com
 media0.giphy.com
-
+www.instagram.com
+static.cdninstagram.com
+scontent.cdninstagram.com
