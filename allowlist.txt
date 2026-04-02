@@ -6,3 +6,4 @@ js.stripe.com # Pagamento ChatGPT
 collector.github.com # GitHub
 mandrillapp.com # Site de cobrança tipo Thingverse para coisas em 3D
 www.googleadservices.com # Acessar links de anuncios pelo google shopping
+url135.fullstackagency.club # Acesso ao WordPress
