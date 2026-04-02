@@ -10,6 +10,8 @@ rupload.facebook.com
 web.facebook.com
 www.facebook.com
 edge-chat.facebook.com
+gateway.facebook.com
+reg-e2ee.facebook.com
 
 #WhatsApp
 g.whatsapp.net
@@ -18,6 +20,7 @@ graph.whatsapp.net
 pps.whatsapp.net
 static.whatsapp.net
 web.whatsapp.com
+media-gru1-1.cdn.whatsapp.net
 
 #Instagram
 b.i.instagram.com
