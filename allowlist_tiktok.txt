@@ -6,9 +6,14 @@ image-sg.tiktokv.com
 image-va.tiktokv.com
 lf19-pitayacdn.tiktokcdn.com
 p16-sg.tiktokcdn.com
+p16-sign.tiktokcdn-us.com
+p16-amd-va.tiktokcdn.com
 p19-comment-sign-sg.tiktokcdn.com
 p19-webcast.tiktokcdn.com
 p19-webcast.tiktokcdn.com
+p19-sign.tiktokcdn-us.com
+p19-common-sign.tiktokcdn.com
+p77-sign-sg.tiktokcdn.com
 pull-flv-f77-sg01.tiktokcdn.com
 sf16-ies-music-sg.tiktokcdn.com
 sf16-va.tiktokcdn.com
@@ -18,3 +23,5 @@ v19.tiktokcdn.com
 v19-cla.tiktokcdn.com
 v45.tiktokcdn.com
 v77.tiktokcdn.com
+v58.tiktokcdn.com
+www.tiktok.com
